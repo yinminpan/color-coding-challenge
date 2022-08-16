@@ -1,0 +1,14 @@
+#canvas ul {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+#canvas li {
+  width: 5px;
+  height: 5px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
